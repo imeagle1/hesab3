@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/74f1b9da08b28ae5.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/74f1b9da08b28ae5.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"jY0Y-DoME0tyPgJ41wLkI","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ef7327"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"حساب‌یار | نرم‌افزار حسابداری سوپرمارکت"}],["$","meta","1",{"name":"description","content":"نرم‌افزار آفلاین حسابداری و صندوق فروش سوپرمارکت با پشتیبانی بارکدخوان، مدیریت انبار، مشتریان و گزارش‌های مالی"}]]}]}]}],null]}],"loading":null,"isPartial":false}
